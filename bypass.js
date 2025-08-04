@@ -1,4 +1,3 @@
-// ==/UserScript==
 
 if (typeof GM_setClipboard != 'function') alert('Your UserScript client has no GM_setClipboard support');
 
